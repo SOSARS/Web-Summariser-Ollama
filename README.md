@@ -58,7 +58,7 @@ Before you run this script, ensure you have the following installed and set up:
 3.  The script will prompt you to `Enter the URL of the webpage to summarise:`. Paste your desired URL and press Enter.
 4.  The script will fetch the content, summarise it using DeepSeek-R1, and print the summary to the console.
 
-## Customization (Optional)
+## Customisation (Optional)
 
 * **Change Ollama Model:** If you want to use a different model installed in Ollama (e.g., `llama3`), update the `OLLAMA_MODEL_NAME` variable in `main.py`.
 * **Adjust Summarisation Prompt:** Modify the `llama_prompt` variable in the `summarise_text` function in `main.py` to change how the model summarises (e.g., "Summarise for a child", "Extract key financial points").
