@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+*.env
+.idea/  # PyCharm specific files
+.DS_Store # macOS specific files
+
+# Dependencies
+pip-wheel-metadata/
+.venv/
+
+# Logs
+*.log
+
+# Misc
+.pytest_cache/
+.coverage
+.mypy_cache/
+.ruff_cache/
