@@ -38,7 +38,7 @@ Before you run this script, ensure you have the following installed and set up:
     ```bash
     python -m venv venv
     # On Windows (PowerShell):
-           .venv\Scripts\activate
+    .venv\Scripts\activate
     # On macOS/Linux/Git Bash:
     source venv/bin/activate
     ```
